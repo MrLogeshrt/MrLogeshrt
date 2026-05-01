@@ -1,25 +1,21 @@
-<h1 align="center">Hi 👋, I'm Logeshwaran R</h1>
-<h3 align="center">ECE Student exploring Embedded Systems, RF Technologies and Python. Interested in IoT, GNSS</h3>
+# 💫 About Me:
+🎓 ECE Student passionate about Embedded Systems, RF Technologies and Programming  <br>💻 Currently learning Python, ESP32, STM32 and Embedded Programming  <br>📡 Interested in IoT, RFID and GNSS  <br>🚀 Building projects to improve my technical and problem-solving skills  <br>🌱 Exploring real-world applications in Embedded and Communication Engineering
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrlogeshrt" alt="mrlogeshrt" /></a> </p>
 
-- 🔭 I’m currently working on **Safetoilet: Smart IoT-Based Public Sanitation System**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/logesh_r_t) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrlogeshrt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mrlogeshrt@gmail.com) 
 
-- 🌱 I’m currently learning **Currently learning ESP32, STM32, RFID and Embedded Programming**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MrLogeshrt&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MrLogeshrt&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MrLogeshrt&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 📫 How to reach me **mrlogeshrt@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MrLogeshrt&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mrlogeshrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrlogeshrt" height="30" width="40" /></a>
-<a href="https://instagram.com/logesh_r_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="logesh_r_t" height="30" width="40" /></a>
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=MrLogeshrt&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrlogeshrt&show_icons=true&locale=en&layout=compact" alt="mrlogeshrt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrlogeshrt&show_icons=true&locale=en" alt="mrlogeshrt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrlogeshrt&" alt="mrlogeshrt" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
